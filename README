@@ -1,4 +1,4 @@
-A collection of regression classes written from scratch for analysis implementaion
+A collection of classes for various regression analysis models
 
 What makes these regression classes interesting is that they perform gradient descent and all other statistical calculations explicitly without the use of outside packages. Features like the negative hessian matrix are left exposed so that one might better understand what's going on "under the hood" of these regression techniques.
 
