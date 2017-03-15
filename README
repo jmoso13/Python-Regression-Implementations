@@ -4,4 +4,4 @@ What makes these regression classes interesting is that they perform gradient de
 
 This collection is ongoing and so far includes:
 -Logistic Regression
--Binary Regression
+-Binomial Regression
