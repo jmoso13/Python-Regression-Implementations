@@ -1,7 +1,13 @@
-A collection of classes for various regression analysis models
+A collection of python implementations of regression analysis techniques
 
-What makes these regression classes interesting is that they perform gradient descent and all other statistical calculations explicitly without the use of outside packages. Features like the negative hessian matrix are left exposed so that one might better understand what's going on "under the hood" of these regression techniques.
+Written by: Jeff Sontag as supplemental to class research
 
-This collection is ongoing and so far includes:
+These classes are written from scratch, implement gradient descent, as well as provide access to the underpinnings inherent in these regression techniques. Structures like the negative hessian matrix used to compute standard error across variable coefficients are laid bare for the user to explore and manipulate. 
+
+DEPENDENCIES:
+Numpy
+Pandas (For Display)
+
+This collection is ongoing and thus far includes:
 -Logistic Regression
 -Binomial Regression
