@@ -2,7 +2,7 @@ A collection of python implementations of regression analysis techniques
 
 Written by: Jeff Sontag as supplemental to class research
 
-These classes are written from scratch, implement gradient descent, as well as provide access to the underpinnings inherent in these regression techniques. Structures like the negative hessian matrix used to compute standard error across variable coefficients are laid bare for the user to explore and manipulate. 
+These classes are written from scratch, implement gradient descent, as well as provide access to the underpinnings. Structures like the hessian are laid bare for the user to explore and manipulate. 
 
 DEPENDENCIES:
 Numpy
