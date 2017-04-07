@@ -1,4 +1,4 @@
-from python_regression.logistic_regression import logistic_regression as lr
+from Regression.logistic_regression import logistic_regression as lr
 import numpy as np
 import pandas as pd
 from scipy.stats import norm
